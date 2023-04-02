@@ -1,0 +1,23 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Relic-Southpaw/node-markov.git"
+  },
+  "author": "Relic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Relic-Southpaw/node-markov/issues"
+  },
+  "homepage": "https://github.com/Relic-Southpaw/node-markov#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "process": "^0.11.10"
+  }
+}
