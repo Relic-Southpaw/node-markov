@@ -60,3 +60,7 @@ else {
     console.error(`Unknown method: ${method}`);
     process.exit(1);
 }
+
+// Exporting for tests
+
+module.exports = { makeText }
